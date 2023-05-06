@@ -1,0 +1,39 @@
+{
+  "id": 77031,
+  "Skill_ID": 77031,
+  "Skill_Lv": 1,
+  "skillEffect": "1",
+  "Skill_Type": 0,
+  "name": "蕴灵1",
+  "qingjiaotype": 5,
+  "seid": [
+    18,
+    6,
+    37
+  ],
+  "Affix": [],
+  "Affix2": [],
+  "descr": "获得大量灵气并治疗自身。",
+  "TuJiandescr": "获得大量灵气并治疗自身。",
+  "Skill_LV": 3,
+  "AttackType": [
+    5
+  ],
+  "typePinJie": 2,
+  "script": "SkillSelf",
+  "HP": 0,
+  "speed": 0,
+  "icon": 70300,
+  "Skill_DisplayType": 0,
+  "skill_SameCastNum": [
+    1
+  ],
+  "skill_CastType": [],
+  "skill_Cast": [],
+  "DF": 1,
+  "TuJianType": 6,
+  "Skill_Open": 0,
+  "Skill_castTime": 0,
+  "canUseDistMax": 30,
+  "CD": 10000
+}

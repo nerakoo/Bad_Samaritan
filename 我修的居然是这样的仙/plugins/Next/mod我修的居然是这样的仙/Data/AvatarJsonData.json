@@ -1,0 +1,50 @@
+{  
+	"7701":{
+	"id":7701,
+	"Title":"宁州体修",
+	"FirstName":"李",
+	"Name":"李大锤",
+	"face": 0,
+	"fightFace": 0,
+	"SexType":1,
+	"AvatarType":1,
+	"Level":2,
+	"HP":200,
+	"dunSu":20,
+	"ziZhi":15,
+	"wuXin":15,
+	"shengShi":12,
+	"shaQi":55,
+	"shouYuan":200,
+	"age":20,
+	"menPai":"",
+	"equipWeapon":0,
+	"equipClothing":0,
+	"equipRing":0,
+	"LingGen":[
+		20,
+		19,
+		19,
+		20,
+		20
+	],
+	"skills":[
+		77001,77006,77011,77016
+	],
+	"staticSkills":[
+		37001,37006
+	],
+	"yuanying":0,
+	"HuaShenLingYu":0,
+	"MoneyType":2,
+	"IsRefresh":1,
+	"dropType":0,
+	"canjiaPaiMai":1,
+	"paimaifenzu":[],
+	"wudaoType":0,	
+	"XinQuType":0,
+	"gudingjiage":0,
+	"sellPercent":0
+	}
+	
+}

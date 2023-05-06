@@ -1,0 +1,22 @@
+{
+  "buffid": 73008,
+  "BuffIcon": 34,
+  "skillEffect": "fx_Summoner_o",
+  "name": "入魔",
+  "Affix": [],
+  "bufftype": 1,
+  "seid": [
+    5,
+    6,
+    78
+  ],
+  "descr": "你只能吸收魔气，受到伤害吸收魔气。",
+  "trigger": 3,
+  "removeTrigger": 7,
+  "script": "Buff",
+  "looptime": 1,
+  "totaltime": 1,
+  "BuffType": 1,
+  "isHide": 0,
+  "ShowOnlyOne": 1
+}

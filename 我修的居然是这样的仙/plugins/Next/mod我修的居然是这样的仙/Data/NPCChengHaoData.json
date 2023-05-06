@@ -1,0 +1,20 @@
+{
+	"771":{
+	"id":771,
+	"NPCType":10,
+	"GongXian":0,
+	"Level":[
+		1,
+		15
+	],
+	"IsOnly":1,
+	"ChengHaoLv":1,
+	"MaxLevel":1,
+	"ChengHao":"宁州体修",
+	"ChengHaoType":771,
+	"Change":[
+	],
+	"ChangeTo":[
+	]
+	}
+}

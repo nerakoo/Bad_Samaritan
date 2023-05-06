@@ -1,0 +1,39 @@
+{
+  "id": 77030,
+  "Skill_ID": 77026,
+  "Skill_Lv": 5,
+  "skillEffect": "Ice1",
+  "Skill_Type": 0,
+  "name": "一尾5",
+  "qingjiaotype": 5,
+  "seid": [
+    6,
+    73
+  ],
+  "Affix": [],
+  "Affix2": [],
+  "descr": "造成上回合造成伤害的一半。",
+  "TuJiandescr": "造成上回合造成伤害的一半。",
+  "Skill_LV": 3,
+  "AttackType": [
+    5
+  ],
+  "typePinJie": 1,
+  "script": "SkillAttack",
+  "HP": 5,
+  "speed": 0,
+  "icon": 0,
+  "Skill_DisplayType": 0,
+  "skill_SameCastNum": [
+    2,
+    2
+  ],
+  "skill_CastType": [],
+  "skill_Cast": [],
+  "DF": 1,
+  "TuJianType": 6,
+  "Skill_Open": 0,
+  "Skill_castTime": 0,
+  "canUseDistMax": 30,
+  "CD": 10000
+}

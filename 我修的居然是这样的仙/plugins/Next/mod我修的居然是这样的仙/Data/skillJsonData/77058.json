@@ -1,0 +1,40 @@
+{
+  "id": 77058,
+  "Skill_ID": 77056,
+  "Skill_Lv": 3,
+  "skillEffect": "1",
+  "Skill_Type": 0,
+  "name": "三尾",
+  "qingjiaotype": 5,
+  "seid": [
+    99,
+    1,
+    61
+  ],
+  "Affix": [],
+  "Affix2": [],
+  "descr": "造成与自身生命值上限有关的伤害，首次攻击具有吸血效果。",
+  "TuJiandescr": "造成与自身生命值上限有关的伤害，首次攻击具有吸血效果。",
+  "Skill_LV": 3,
+  "AttackType": [
+    5
+  ],
+  "typePinJie": 1,
+  "script": "SkillAttack",
+  "HP": 20,
+  "speed": 0,
+  "icon": 0,
+  "Skill_DisplayType": 0,
+  "skill_SameCastNum": [
+    2,
+    3
+  ],
+  "skill_CastType": [],
+  "skill_Cast": [],
+  "DF": 1,
+  "TuJianType": 6,
+  "Skill_Open": 0,
+  "Skill_castTime": 0,
+  "canUseDistMax": 30,
+  "CD": 10000
+}

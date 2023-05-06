@@ -1,0 +1,26 @@
+{
+	"7701":{
+		"id":7701,
+		"Type":771,
+		"lv":1,
+		"wudaoID":[
+			601,
+			701,
+			901,
+			9621,9632,9642
+		],
+		"value1":0,
+		"value2":0,
+		"value3":0,
+		"value4":0,
+		"value5":0,
+		"value6":1,
+		"value7":1,
+		"value8":0,
+		"value9":1,
+		"value10":0,
+		"value11":0,
+		"value12":0,
+		"value96":5
+	}
+}

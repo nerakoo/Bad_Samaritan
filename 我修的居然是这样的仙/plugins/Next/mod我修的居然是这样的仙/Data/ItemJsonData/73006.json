@@ -1,0 +1,37 @@
+{
+  "id": 73006,
+  "ItemIcon": 3002,
+  "maxNum": 1,
+  "name": "凝血劲",
+  "FaBaoType": "",
+  "Affix": [],
+  "TuJianType": 0,
+  "ShopType": 99,
+  "ItemFlag": [
+    4
+  ],
+  "WuWeiType": 0,
+  "ShuXingType": 0,
+  "type": 3,
+  "quality": 1,
+  "typePinJie": 3,
+  "StuTime": 48,
+  "seid": [
+    1
+  ],
+  "vagueType": 1,
+  "price": 2000,
+  "desc": "77016",
+  "desc2": "体道人阶神通,在市面上广泛传播。",
+  "CanSale": 0,
+  "DanDu": 0,
+  "CanUse": 0,
+  "NPCCanUse": 0,
+  "yaoZhi1": 0,
+  "yaoZhi2": 0,
+  "yaoZhi3": 0,
+  "wuDao": [
+    7,
+    1
+  ]
+}

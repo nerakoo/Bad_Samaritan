@@ -1,0 +1,38 @@
+{
+  "id": 73001,
+  "ItemIcon": 3001,
+  "maxNum": 1,
+  "name": "淬体诀",
+  "FaBaoType": "",
+  "Affix": [],
+  "TuJianType": 0,
+  "ShopType": 99,
+  "ItemFlag": [
+    5,
+    501
+  ],
+  "WuWeiType": 0,
+  "ShuXingType": 0,
+  "type": 4,
+  "quality": 1,
+  "typePinJie": 3,
+  "StuTime": 152,
+  "seid": [
+    2
+  ],
+  "vagueType": 1,
+  "price": 4000,
+  "desc": "37001",
+  "desc2": "体道人阶功法,在市面上广泛传播。",
+  "CanSale": 0,
+  "DanDu": 0,
+  "CanUse": 0,
+  "NPCCanUse": 0,
+  "yaoZhi1": 0,
+  "yaoZhi2": 0,
+  "yaoZhi3": 0,
+  "wuDao": [
+    7,
+    1
+  ]
+}

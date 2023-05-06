@@ -1,0 +1,41 @@
+{
+  "id": 77044,
+  "Skill_ID": 77041,
+  "Skill_Lv": 4,
+  "skillEffect": "1",
+  "Skill_Type": 0,
+  "name": "天谴4",
+  "qingjiaotype": 5,
+  "seid": [
+    6,
+    53,
+    26
+  ],
+  "Affix": [],
+  "Affix2": [],
+  "descr": "如果对方没有灵气，则造成对面生命值一半的伤害。",
+  "TuJiandescr": "如果对方没有灵气，则造成对面生命值一半的伤害。",
+  "Skill_LV": 3,
+  "AttackType": [
+    5
+  ],
+  "typePinJie": 3,
+  "script": "SkillAttack",
+  "HP": 0,
+  "speed": 0,
+  "icon": 0,
+  "Skill_DisplayType": 0,
+  "skill_SameCastNum": [
+    2,
+    2,
+    2
+  ],
+  "skill_CastType": [],
+  "skill_Cast": [],
+  "DF": 1,
+  "TuJianType": 6,
+  "Skill_Open": 0,
+  "Skill_castTime": 0,
+  "canUseDistMax": 30,
+  "CD": 10000
+}

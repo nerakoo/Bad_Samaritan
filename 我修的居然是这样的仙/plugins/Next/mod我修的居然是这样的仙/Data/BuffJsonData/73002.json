@@ -1,0 +1,20 @@
+{
+  "buffid": 73002,
+  "BuffIcon": 70,
+  "skillEffect": "fx_Summoner_o",
+  "name": "浴血",
+  "Affix": [],
+  "bufftype": 1,
+  "seid": [
+    93
+  ],
+  "descr": "回合结束时，扣除1%生命值",
+  "trigger": 2,
+  "removeTrigger": 2,
+  "script": "Buff",
+  "looptime": 1,
+  "totaltime": 1,
+  "BuffType": 0,
+  "isHide": 0,
+  "ShowOnlyOne": 0
+}
