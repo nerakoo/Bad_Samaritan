@@ -4,7 +4,7 @@
 
 https://steamcommunity.com/workshop/filedetails/?id=3083464207
 
-![image-20250213111222161](.\image\image-20250213111222161.png)
+![image-20250213111222161](./image/image-20250213111222161.png)
 
 
 
@@ -42,11 +42,11 @@ PS：本作品是剧情mod，每篇你不一定是主角，甚至有时候身不
 
 #### 部分CG：
 
-![小柒论道](.\image\小柒论道.png)
+![小柒论道](./image/小柒论道.png)
 
-![灵莲出马](.\image\灵莲出马.png)
+![灵莲出马](./image/灵莲出马.png)
 
-![血海迷阵](.\image\血海迷阵.png)
+![血海迷阵](./image/血海迷阵.png)
 
 
 
